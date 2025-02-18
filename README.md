@@ -1,2 +1,2 @@
 # FireFlyChessBinaries
-FireFly Chess Engine Binaries
+FireFly Chess Engine Binaries for public download
